@@ -7,7 +7,7 @@ A repo for practicing your git skills as an incoming MS student at the DSI
 
 **Name:** Nathan Grey
 
-**Hobbies:**
+**Hobbies:** Golf, Travel and Sports
 
 ## Section 1: Your First Commit
 
